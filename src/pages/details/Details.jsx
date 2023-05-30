@@ -15,7 +15,7 @@ const Details =() => {
 
 
 
-    console.log("mediaType",mediaType)
+    // console.log("mediaType",mediaType)
 
 
 

@@ -8,7 +8,7 @@ const Similar = ({ mediaType, id }) => {
 
     const title = mediaType === "tv" ? "Similar TV Shows" : "Similar Movies";
 
-    console.log(mediaType) ;
+    // console.log(mediaType) ;
 
     return (
         <Carousel
