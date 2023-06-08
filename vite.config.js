@@ -7,7 +7,7 @@ const manifestForPlugin = {
 	includeAssets: ["favicon.ico", "apple-touch-icon.png", "masked-icon.svg"],
 	manifest: {
 		name: "Movix Data",
-		short_name: "Weathe Ups",
+		short_name: "Movix",
 		description: "An app that can show movies data and latest movies",
 		icons: [
 			{
